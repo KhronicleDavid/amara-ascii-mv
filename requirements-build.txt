@@ -1,0 +1,5 @@
+# Only needed to rebuild the supplied caches or render preview images.
+# Normal terminal playback with the included assets uses Python stdlib only.
+numpy>=2.0
+soundfile>=0.13
+Pillow>=11.0

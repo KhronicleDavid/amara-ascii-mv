@@ -1,0 +1,463 @@
+{
+  "version": 2,
+  "revision": "physical-fracture-inscription-revision4",
+  "title": "ÅMARA V2：无法理解的输入，已经开始执行",
+  "premise": "文明试图把未知文字识别、解释并执行，世界因此生成，也因此失控。语言被剥离，姓名被删除，现实判定逐次失败；献花进入了这个系统，却不能修复它。最后的再生失步，天国倒置，未知字符获得整屏权限，所有可见层崩溃，终局明确显示严重系统错误。",
+  "shots": [
+    {
+      "start": 0.0,
+      "kind": "initialize",
+      "action": "文明模拟开始逐列生成，读取未知输入",
+      "cue": null,
+      "end": 0.387
+    },
+    {
+      "start": 0.387,
+      "end": 4.416,
+      "kind": "unknown_boot",
+      "action": "未知文字逐列侵入，覆盖初始化结果",
+      "cue": 0
+    },
+    {
+      "start": 4.417,
+      "end": 7.698,
+      "kind": "unknown_pulse",
+      "action": "横贯屏幕的九个 X 拉开整个世界",
+      "cue": 1
+    },
+    {
+      "start": 7.698,
+      "kind": "title",
+      "action": "侵入的字符重新排列成占满屏幕的 AMARA",
+      "cue": null,
+      "end": 12.8
+    },
+    {
+      "start": 12.8,
+      "kind": "gate_launch",
+      "action": "文明闸门打开，镜头冲入无限结构",
+      "cue": null,
+      "end": 16.635
+    },
+    {
+      "start": 16.635,
+      "end": 20.819,
+      "kind": "devour_worlds",
+      "action": "十二个微缩城市被逐个拖入中央吞噬口",
+      "cue": 2
+    },
+    {
+      "start": 20.82,
+      "end": 24.817,
+      "kind": "dragged_core",
+      "action": "牵引束将发光的心拖过巨大的行星表面",
+      "cue": 3
+    },
+    {
+      "start": 24.988,
+      "end": 26.885,
+      "kind": "flay_language",
+      "action": "语言膜被从下向上解缝，十七条铭文带逐节卷曲，字形脱落并露出空白基底",
+      "cue": 4
+    },
+    {
+      "start": 26.885,
+      "end": 28.949,
+      "kind": "fire_cage",
+      "action": "枪击冲击贯穿画面，未知栅栏闭合囚禁",
+      "cue": 5
+    },
+    {
+      "start": 29.107,
+      "end": 30.716,
+      "kind": "moon_row",
+      "action": "划桨推动小舟穿过覆盖屏幕的月暗与数据海",
+      "cue": 6
+    },
+    {
+      "start": 30.717,
+      "end": 32.354,
+      "kind": "peel_fantasy",
+      "action": "镜面幻想壳被分叉的斜刃切开，五十块镜片绕独立铰链张开，缝中仍是未知符号",
+      "cue": 7
+    },
+    {
+      "start": 32.355,
+      "end": 33.841,
+      "kind": "reverse_wave",
+      "action": "反向声波击退来自画面两侧的审判波",
+      "cue": 8
+    },
+    {
+      "start": 33.841,
+      "end": 44.5,
+      "kind": "lightless_plain",
+      "action": "苍白旷野逐渐消散，人影抵抗侵蚀，仍保留自身轮廓",
+      "cue": 9
+    },
+    {
+      "start": 45.522,
+      "end": 46.92,
+      "kind": "reality_stack",
+      "action": "真实城市与虚构代码争夺同一坐标",
+      "cue": 10
+    },
+    {
+      "start": 46.921,
+      "end": 48.921,
+      "kind": "road_unmapped",
+      "action": "向前延伸的道路逐条断裂在未知边界",
+      "cue": 11
+    },
+    {
+      "start": 49.158,
+      "end": 50.395,
+      "kind": "fiction_fold",
+      "action": "刻着异文的双叶地图沿中央脊骨合拢，把城市实体包入虚构内部",
+      "cue": 12
+    },
+    {
+      "start": 50.395,
+      "end": 52.331,
+      "kind": "causal_void",
+      "action": "因果节点展开却无法连接到任何终点",
+      "cue": 13
+    },
+    {
+      "start": 52.612,
+      "end": 55.285,
+      "kind": "k_stutter",
+      "action": "问句卡在双轮印刷机构中，失败压印翻成独立纸卡，随后散落为 k 碎屑",
+      "cue": 14
+    },
+    {
+      "start": 55.285,
+      "kind": "braid_interlude",
+      "action": "判定网络收紧成覆盖屏幕的束缚织物",
+      "cue": null,
+      "end": 61.66
+    },
+    {
+      "start": 61.66,
+      "end": 65.463,
+      "kind": "tension_weave",
+      "action": "巨大的无缝导体互相扣合，呼叫沿羁绊传播，震颤的回声返回下方见证者",
+      "cue": 15
+    },
+    {
+      "start": 65.687,
+      "end": 69.797,
+      "kind": "thought_mill",
+      "action": "刻印器把思考逐字压进整屏堡垒",
+      "cue": 16
+    },
+    {
+      "start": 69.798,
+      "end": 71.682,
+      "kind": "delete_name",
+      "action": "NAME 被逐列抹除，姓名索引归零",
+      "cue": 17
+    },
+    {
+      "start": 71.859,
+      "end": 73.866,
+      "kind": "meteor_tears",
+      "action": "流星与泪的两股洪流将记忆向下掳走",
+      "cue": 18
+    },
+    {
+      "start": 74.009,
+      "end": 75.614,
+      "kind": "glass_cover",
+      "action": "巨大玻璃心脏被多层透明封膜笼罩",
+      "cue": 19
+    },
+    {
+      "start": 75.614,
+      "end": 77.19,
+      "kind": "veil_cut",
+      "action": "中央遮幕撕开，织线绕各自锚点回弹卷曲，后面仍有不能穿透的第二层记录",
+      "cue": 20
+    },
+    {
+      "start": 77.191,
+      "end": 78.638,
+      "kind": "voice_revolt",
+      "action": "玻璃中的生命逆着扩音器的声流穿出",
+      "cue": 21
+    },
+    {
+      "start": 78.638,
+      "kind": "metabolism",
+      "action": "巨幅脊骨神经体悬过白色旷野，铜色神经传递脉冲，与人影接通后触发绯红反馈",
+      "cue": null,
+      "end": 92.063
+    },
+    {
+      "start": 92.063,
+      "end": 93.238,
+      "kind": "reality_slice",
+      "action": "同一座立体城市被切成九张带厚度的断面，各自绕不同枢轴翻转，暴露不一致的内部",
+      "cue": 22
+    },
+    {
+      "start": 93.239,
+      "end": 95.087,
+      "kind": "vanishing_future",
+      "action": "七扇未来玻璃窗错时合拢，窗内的预演逐个熄灭，只剩无法窥视的细缝",
+      "cue": 23
+    },
+    {
+      "start": 95.488,
+      "end": 96.719,
+      "kind": "fiction_spiral",
+      "action": "连续铭文纸带卷成三圈空间漏斗，内壁持续收紧，把观察者围入虚构",
+      "cue": 24
+    },
+    {
+      "start": 96.72,
+      "end": 98.61,
+      "kind": "erased_path",
+      "action": "八条预测纸带持续吐出，逆向擦除波把未来记录剥走，纸带成为空白与碎屑",
+      "cue": 25
+    },
+    {
+      "start": 98.885,
+      "end": 100.182,
+      "kind": "reality_swap",
+      "action": "两座相反材质的城市房间绕共同转轴交换前后，立面透视与编码随之改变",
+      "cue": 26
+    },
+    {
+      "start": 100.182,
+      "end": 101.917,
+      "kind": "no_exit",
+      "action": "巨幅七瓣观测光阑闭合，探测粒子被边界反射，镜头再也看不见那之后",
+      "cue": 27
+    },
+    {
+      "start": 101.917,
+      "end": 102.265,
+      "kind": "wide_x_1",
+      "action": "九个 X 巨幅横贯，压过文明解释界面",
+      "cue": 28
+    },
+    {
+      "start": 102.266,
+      "end": 103.643,
+      "kind": "inscription_scan",
+      "action": "巨幅石刻倾向读者，双束扫描逐字捕捉；笔画绕轴翻起并逃出识别框",
+      "cue": 29
+    },
+    {
+      "start": 103.643,
+      "end": 104.986,
+      "kind": "decoder_city",
+      "action": "二十四栋立体建筑把数据送入光学译码器，异文在万向环内旋转，输出孔逐个落空",
+      "cue": 30
+    },
+    {
+      "start": 104.986,
+      "end": 106.252,
+      "kind": "decode_failure",
+      "action": "九级实体译码节点依次失去连接，导线回缩，端点放电，识别单元自行翻散",
+      "cue": 31
+    },
+    {
+      "start": 106.252,
+      "end": 106.666,
+      "kind": "wide_x_2",
+      "action": "第二波巨大 X 斜向剪断识别页面",
+      "cue": 32
+    },
+    {
+      "start": 106.666,
+      "end": 108.63,
+      "kind": "palimpsest",
+      "action": "三张厚重记录页绕不同书脊翻开，装订线被扯断，每一层暴露互不相同的铭文",
+      "cue": 33
+    },
+    {
+      "start": 108.631,
+      "end": 110.042,
+      "kind": "civilization_grid",
+      "action": "文明建筑被机械压床向下碾入电路模具，楼体压扁、基板放电、碎屑从两侧喷出",
+      "cue": 34
+    },
+    {
+      "start": 110.043,
+      "end": 112.218,
+      "kind": "overload",
+      "action": "输入沿光学反馈树递归分叉，接收光阑从中心到边缘逐级炸裂，反馈成为放电碎屑",
+      "cue": 35
+    },
+    {
+      "start": 112.218,
+      "kind": "chaos_filament",
+      "action": "前段直接衔接翻卷撕裂的混沌；01:53起由慢到快压缩，01:56.780收成单根丝线；02:00.700中央英文RECONNECT闪烁，周围断线、双向数据包与握手链路逐步恢复，直到下一句歌词",
+      "cue": null,
+      "end": 121.821
+    },
+    {
+      "start": 121.821,
+      "end": 124.777,
+      "kind": "living_bus",
+      "action": "电路从左右接通，文明脉冲与有机脉冲互相侵入",
+      "cue": 36
+    },
+    {
+      "start": 124.777,
+      "end": 128.428,
+      "kind": "offer_hand",
+      "action": "机械臂把电路花束递向透明异形，花瓣被光学扫描，光点进入折射的全息表皮",
+      "cue": 37
+    },
+    {
+      "start": 128.675,
+      "end": 131.044,
+      "kind": "star_gullet",
+      "action": "上下巨颚收拢，星流被咽入未知体内",
+      "cue": 38
+    },
+    {
+      "start": 131.045,
+      "end": 133.113,
+      "kind": "toxin_corridor",
+      "action": "电路圣堂深处张开喷口，青绿梦毒沿导轨向镜头涌出，污染前景电路",
+      "cue": 39
+    },
+    {
+      "start": 133.114,
+      "end": 136.774,
+      "kind": "festival_rupture",
+      "action": "再生光冠围绕机械人形点亮，身体先行碎裂，裂纹穿过三层祭仪；六十块光冠构件多轴翻转、迎面飞散，四十八块祭坛和悬索随后断裂",
+      "cue": 40
+    },
+    {
+      "start": 137.015,
+      "end": 139.451,
+      "kind": "heaven_crawl",
+      "action": "夜沿实体穹顶的肋骨与分叉接缝蔓延，逐块吞掉马赛克光面，侵入天国通路",
+      "cue": 41
+    },
+    {
+      "start": 139.451,
+      "end": 140.666,
+      "kind": "wide_x_3",
+      "action": "第三波 X 盖住全部庆典，开始接管屏幕",
+      "cue": 42
+    },
+    {
+      "start": 140.667,
+      "end": 142.954,
+      "kind": "strata_text",
+      "action": "钻头向下掘开八层倾斜文字地层，断面向两侧翻落，越深入越露出互异铭文",
+      "cue": 43
+    },
+    {
+      "start": 142.955,
+      "end": 144.406,
+      "kind": "civil_dissolve",
+      "action": "文明的建筑分解为不能归类的碎字符",
+      "cue": 44
+    },
+    {
+      "start": 144.407,
+      "end": 145.618,
+      "kind": "rejected",
+      "action": "理解请求被巨大 REJECTED 盖印退回",
+      "cue": 45
+    },
+    {
+      "start": 145.619,
+      "end": 145.779,
+      "kind": "wide_x_4",
+      "action": "第四波未知文字直接撞穿屏幕坐标",
+      "cue": 46
+    },
+    {
+      "start": 145.779,
+      "end": 147.486,
+      "kind": "semantic_collision",
+      "action": "两套解释立在垂直字笼中合拢相撞，笔画脱扣，冲击环与独立多面碎片同时炸出",
+      "cue": 47
+    },
+    {
+      "start": 147.486,
+      "end": 155.149,
+      "kind": "civil_suspend",
+      "action": "紫红神经巨眼内三十九个铭文锚定原位，旋转光束逐个检视，笔画翻起、反冲并长回互不兼容的新形",
+      "cue": 48
+    },
+    {
+      "start": 155.15,
+      "end": 158.102,
+      "kind": "circuit_seizure",
+      "action": "最终电路反向放电，脉冲自激并烧毁连接",
+      "cue": 49
+    },
+    {
+      "start": 158.102,
+      "end": 161.813,
+      "kind": "bouquet_transfer",
+      "action": "双机械臂从传输祭坛向上献花，全息花瓣沿光束崩解，透明接收体的网格逐层错位",
+      "cue": 50
+    },
+    {
+      "start": 162.05,
+      "end": 164.42,
+      "kind": "star_collapse",
+      "action": "整片星域被反转压缩，光坠入负空间",
+      "cue": 51
+    },
+    {
+      "start": 164.42,
+      "end": 166.517,
+      "kind": "nightmare_artery",
+      "action": "斜切的神经数据回廊扭曲，紫红梦毒从偏置喷口喷出并向前景电子结构扩散",
+      "cue": 52
+    },
+    {
+      "start": 166.518,
+      "end": 170.202,
+      "kind": "rebirth_shear",
+      "action": "再生桥片尝试抬升接回，失败从远端传来；桥面逐节屈曲翻落，圣堂拱肋从拱心向内折断，无法重建",
+      "cue": 53
+    },
+    {
+      "start": 170.432,
+      "end": 173.218,
+      "kind": "heaven_invert",
+      "action": "天国实体拱肋绕柱脚倒扣，拱心失去支撑，阶梯与碎石沿不同深度坠入黑夜",
+      "cue": 54
+    },
+    {
+      "start": 173.218,
+      "kind": "unknown_flood",
+      "action": "未知 X 从铭文变成满屏执行权限",
+      "cue": null,
+      "end": 178.0
+    },
+    {
+      "start": 178.0,
+      "kind": "geometry_break",
+      "action": "三维坐标网的焊点沿三个轴逐级断开，格室各自扭转外翻，连接回缩后变成漂离的错误节点",
+      "cue": null,
+      "end": 184.0
+    },
+    {
+      "start": 184.0,
+      "kind": "crash_dump",
+      "action": "文明状态倾泻成无法保存的错误转储",
+      "cue": null,
+      "end": 190.0
+    },
+    {
+      "start": 190.0,
+      "kind": "fatal",
+      "action": "严重系统错误占据屏幕，停止重启",
+      "cue": null,
+      "end": 195.50652083333333
+    }
+  ]
+}

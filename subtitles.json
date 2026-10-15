@@ -1,0 +1,455 @@
+{
+  "title": "ÅMARA (大未来電脳)",
+  "translation_note": "原有54条中英字幕依据用户提供的逐字 LRC 翻译；33.841–44.500秒的「ヒカリナクモアレ」另依据用户提供的官方MV字卡补入。每段起止时间分别取原行首、末时间戳，保留空白间隔。跨行短语保留诗性断句：「ファンタジーを暴く／声に逆らい」可连读为违逆揭穿幻想的声音。「無縫のしがらみ」按字面译为无缝的羁绊，不擅自改成无数或无线；「シ考」音近思考，原文片假名字形还可能引出思／死等联想，此处以带引号的思考处理，不断言唯一含义；「詩が待つ彼の名」严格保留诗歌等待那人的表达，不替换为死亡。XXXXXXXXX 与 kkkkk 作为不可译信号原样保留；含 kkkkk 的混合行只翻译实际出现的日语，不补写缺失音节。天国、怪物、重生等意象均保留开放含义。",
+  "cues": [
+    {
+      "start": 0.387,
+      "end": 4.416,
+      "ja": "XXXXXXXXX",
+      "zh": "XXXXXXXXX",
+      "en": "XXXXXXXXX",
+      "kind": "signal"
+    },
+    {
+      "start": 4.417,
+      "end": 7.698,
+      "ja": "XXXXXXXXX",
+      "zh": "XXXXXXXXX",
+      "en": "XXXXXXXXX",
+      "kind": "signal"
+    },
+    {
+      "start": 16.635,
+      "end": 20.819,
+      "ja": "無数のジオラマが呑まれる応答",
+      "zh": "无数微缩世界被吞没的回应",
+      "en": "A response in which countless miniature worlds are swallowed",
+      "kind": "lyric"
+    },
+    {
+      "start": 20.82,
+      "end": 24.817,
+      "ja": "引き摺られた心が輝く惑星で",
+      "zh": "在被拖曳的心闪耀的星球上",
+      "en": "On a planet where a dragged-along heart shines",
+      "kind": "lyric"
+    },
+    {
+      "start": 24.988,
+      "end": 26.885,
+      "ja": "言葉の剥ぎ方も忘れて",
+      "zh": "连剥离言语的方法也已忘却",
+      "en": "Forgetting even how to peel words away",
+      "kind": "lyric"
+    },
+    {
+      "start": 26.885,
+      "end": 28.949,
+      "ja": "銃声とナニカに囚われて",
+      "zh": "被枪声与某种东西囚禁",
+      "en": "Captive to gunshots and SOMETHING",
+      "kind": "lyric"
+    },
+    {
+      "start": 29.107,
+      "end": 30.716,
+      "ja": "月の闇を漕ぐ",
+      "zh": "划过月亮的黑暗",
+      "en": "Rowing through the moon's darkness",
+      "kind": "lyric"
+    },
+    {
+      "start": 30.717,
+      "end": 32.354,
+      "ja": "ファンタジーを暴く",
+      "zh": "揭穿幻想的",
+      "en": "That lays fantasy bare",
+      "kind": "lyric"
+    },
+    {
+      "start": 32.355,
+      "end": 33.841,
+      "ja": "声に逆らい",
+      "zh": "违逆那声音",
+      "en": "Defying that voice",
+      "kind": "lyric"
+    },
+    {
+      "start": 33.841,
+      "end": 44.5,
+      "ja": "ヒカリナクモアレ",
+      "zh": "即使无光，也愿存在。",
+      "en": "Even without light, let existence remain.",
+      "kind": "lyric",
+      "source": "provided_mv",
+      "scene": "lightless_plain",
+      "provenance": {
+        "file": "D:/bilidown_Windows_x86_64/download/ÅMARA.mp4",
+        "visible_start": 33.5,
+        "visible_end": 44.5,
+        "timing_note": "按原MV字卡的显示范围补入；起点承接原LRC上一句的33.841秒终点，以保留原有字幕且避免重叠。",
+        "translation_note": "按「光なくもあれ」作祈愿式翻译，保留存在主体的省略。"
+      }
+    },
+    {
+      "start": 45.522,
+      "end": 46.92,
+      "ja": "現実か虚構か",
+      "zh": "是现实，还是虚构？",
+      "en": "Reality, or fiction?",
+      "kind": "lyric"
+    },
+    {
+      "start": 46.921,
+      "end": 48.921,
+      "ja": "誰にもその先は解らない",
+      "zh": "无人知晓那之后会是什么",
+      "en": "No one knows what lies beyond",
+      "kind": "lyric"
+    },
+    {
+      "start": 49.158,
+      "end": 50.395,
+      "ja": "現実か虚構か",
+      "zh": "是现实，还是虚构？",
+      "en": "Reality, or fiction?",
+      "kind": "lyric"
+    },
+    {
+      "start": 50.395,
+      "end": 52.331,
+      "ja": "誰にもその先は解らない",
+      "zh": "无人知晓那之后会是什么",
+      "en": "No one knows what lies beyond",
+      "kind": "lyric"
+    },
+    {
+      "start": 52.612,
+      "end": 55.285,
+      "ja": "現実か虚構kkkkk",
+      "zh": "是现实，还是虚构 kkkkk",
+      "en": "Reality, or fiction kkkkk",
+      "kind": "signal"
+    },
+    {
+      "start": 61.66,
+      "end": 65.463,
+      "ja": "無縫のしがらみが震える応答",
+      "zh": "无缝的羁绊震颤的回应",
+      "en": "A response in which seamless bonds tremble",
+      "kind": "lyric"
+    },
+    {
+      "start": 65.687,
+      "end": 69.797,
+      "ja": "刻みつけられたシ考の砦",
+      "zh": "被铭刻的「思考」之堡",
+      "en": "A fortress of engraved \"thought\"",
+      "kind": "lyric"
+    },
+    {
+      "start": 69.798,
+      "end": 71.682,
+      "ja": "詩が待つ彼の名も忘れて",
+      "zh": "连诗歌等待的那人的名字也忘却",
+      "en": "Forgetting even the name of the one whom poetry awaits",
+      "kind": "lyric"
+    },
+    {
+      "start": 71.859,
+      "end": 73.866,
+      "ja": "流星と涙に攫われて",
+      "zh": "被流星与泪水掳走",
+      "en": "Swept away by meteors and tears",
+      "kind": "lyric"
+    },
+    {
+      "start": 74.009,
+      "end": 75.614,
+      "ja": "硝子の心臓覆う",
+      "zh": "将玻璃心脏笼罩",
+      "en": "Shrouding a heart of glass",
+      "kind": "lyric"
+    },
+    {
+      "start": 75.614,
+      "end": 77.19,
+      "ja": "ファンタジーを暴く",
+      "zh": "揭穿幻想的",
+      "en": "That lays fantasy bare",
+      "kind": "lyric"
+    },
+    {
+      "start": 77.191,
+      "end": 78.638,
+      "ja": "声に逆らい",
+      "zh": "违逆那声音",
+      "en": "Defying that voice",
+      "kind": "lyric"
+    },
+    {
+      "start": 92.063,
+      "end": 93.238,
+      "ja": "現実か虚構か",
+      "zh": "是现实，还是虚构？",
+      "en": "Reality, or fiction?",
+      "kind": "lyric"
+    },
+    {
+      "start": 93.239,
+      "end": 95.087,
+      "ja": "誰にもその先は解らない",
+      "zh": "无人知晓那之后会是什么",
+      "en": "No one knows what lies beyond",
+      "kind": "lyric"
+    },
+    {
+      "start": 95.488,
+      "end": 96.719,
+      "ja": "現実か虚構か",
+      "zh": "是现实，还是虚构？",
+      "en": "Reality, or fiction?",
+      "kind": "lyric"
+    },
+    {
+      "start": 96.72,
+      "end": 98.61,
+      "ja": "誰にもその先は解らない",
+      "zh": "无人知晓那之后会是什么",
+      "en": "No one knows what lies beyond",
+      "kind": "lyric"
+    },
+    {
+      "start": 98.885,
+      "end": 100.182,
+      "ja": "現実か虚構か",
+      "zh": "是现实，还是虚构？",
+      "en": "Reality, or fiction?",
+      "kind": "lyric"
+    },
+    {
+      "start": 100.182,
+      "end": 101.917,
+      "ja": "誰にもその先は解らない",
+      "zh": "无人知晓那之后会是什么",
+      "en": "No one knows what lies beyond",
+      "kind": "lyric"
+    },
+    {
+      "start": 101.917,
+      "end": 102.265,
+      "ja": "XXXXXXXXX",
+      "zh": "XXXXXXXXX",
+      "en": "XXXXXXXXX",
+      "kind": "signal"
+    },
+    {
+      "start": 102.266,
+      "end": 103.643,
+      "ja": "何が綴られていたのか",
+      "zh": "究竟曾写下了什么",
+      "en": "What had been written there",
+      "kind": "lyric"
+    },
+    {
+      "start": 103.643,
+      "end": 104.986,
+      "ja": "私たちの文明では",
+      "zh": "以我们的文明",
+      "en": "With our civilization",
+      "kind": "lyric"
+    },
+    {
+      "start": 104.986,
+      "end": 106.252,
+      "ja": "到底理解できない",
+      "zh": "根本无法理解",
+      "en": "We cannot possibly comprehend it",
+      "kind": "lyric"
+    },
+    {
+      "start": 106.252,
+      "end": 106.666,
+      "ja": "XXXXXXXXX",
+      "zh": "XXXXXXXXX",
+      "en": "XXXXXXXXX",
+      "kind": "signal"
+    },
+    {
+      "start": 106.666,
+      "end": 108.63,
+      "ja": "何が綴られていたのか",
+      "zh": "究竟曾写下了什么",
+      "en": "What had been written there",
+      "kind": "lyric"
+    },
+    {
+      "start": 108.631,
+      "end": 110.042,
+      "ja": "私たちの文明では",
+      "zh": "以我们的文明",
+      "en": "With our civilization",
+      "kind": "lyric"
+    },
+    {
+      "start": 110.043,
+      "end": 112.218,
+      "ja": "到底理解できない",
+      "zh": "根本无法理解",
+      "en": "We cannot possibly comprehend it",
+      "kind": "lyric"
+    },
+    {
+      "start": 121.821,
+      "end": 124.777,
+      "ja": "文明と不思議が脈打つ回路",
+      "zh": "文明与神秘脉动的电路",
+      "en": "A circuit where civilization and wonder pulse",
+      "kind": "lyric"
+    },
+    {
+      "start": 124.777,
+      "end": 128.428,
+      "ja": "透明な怪物に花束を",
+      "zh": "向透明的怪物献上花束",
+      "en": "A bouquet for the transparent monster",
+      "kind": "lyric"
+    },
+    {
+      "start": 128.675,
+      "end": 131.044,
+      "ja": "星を飲み込んで",
+      "zh": "将星辰吞入腹中",
+      "en": "Swallowing the stars",
+      "kind": "lyric"
+    },
+    {
+      "start": 131.045,
+      "end": 133.113,
+      "ja": "夢の毒吐く回廊",
+      "zh": "吐出梦之毒的回廊",
+      "en": "A corridor spitting the poison of dreams",
+      "kind": "lyric"
+    },
+    {
+      "start": 133.114,
+      "end": 136.774,
+      "ja": "再生の祝祭が千切れるまで",
+      "zh": "直到重生的庆典支离破碎",
+      "en": "Until the festival of rebirth is torn apart",
+      "kind": "lyric"
+    },
+    {
+      "start": 137.015,
+      "end": 139.451,
+      "ja": "天国を這う 夜に",
+      "zh": "在爬过天国的夜里",
+      "en": "In the night that crawls through heaven",
+      "kind": "lyric"
+    },
+    {
+      "start": 139.451,
+      "end": 140.666,
+      "ja": "XXXXXXXXX",
+      "zh": "XXXXXXXXX",
+      "en": "XXXXXXXXX",
+      "kind": "signal"
+    },
+    {
+      "start": 140.667,
+      "end": 142.954,
+      "ja": "何が綴られていたのか",
+      "zh": "究竟曾写下了什么",
+      "en": "What had been written there",
+      "kind": "lyric"
+    },
+    {
+      "start": 142.955,
+      "end": 144.406,
+      "ja": "私たちの文明では",
+      "zh": "以我们的文明",
+      "en": "With our civilization",
+      "kind": "lyric"
+    },
+    {
+      "start": 144.407,
+      "end": 145.618,
+      "ja": "到底理解できない",
+      "zh": "根本无法理解",
+      "en": "We cannot possibly comprehend it",
+      "kind": "lyric"
+    },
+    {
+      "start": 145.619,
+      "end": 145.779,
+      "ja": "XXXXXXXXX",
+      "zh": "XXXXXXXXX",
+      "en": "XXXXXXXXX",
+      "kind": "signal"
+    },
+    {
+      "start": 145.779,
+      "end": 147.486,
+      "ja": "何が綴られていたのか",
+      "zh": "究竟曾写下了什么",
+      "en": "What had been written there",
+      "kind": "lyric"
+    },
+    {
+      "start": 147.486,
+      "end": 155.149,
+      "ja": "私たちの文明では",
+      "zh": "以我们的文明",
+      "en": "With our civilization",
+      "kind": "lyric"
+    },
+    {
+      "start": 155.15,
+      "end": 158.102,
+      "ja": "文明と不思議が脈打つ回路",
+      "zh": "文明与神秘脉动的电路",
+      "en": "A circuit where civilization and wonder pulse",
+      "kind": "lyric"
+    },
+    {
+      "start": 158.102,
+      "end": 161.813,
+      "ja": "透明な怪物に花束を",
+      "zh": "向透明的怪物献上花束",
+      "en": "A bouquet for the transparent monster",
+      "kind": "lyric"
+    },
+    {
+      "start": 162.05,
+      "end": 164.42,
+      "ja": "星を飲み込んで",
+      "zh": "将星辰吞入腹中",
+      "en": "Swallowing the stars",
+      "kind": "lyric"
+    },
+    {
+      "start": 164.42,
+      "end": 166.517,
+      "ja": "夢の毒吐く回廊",
+      "zh": "吐出梦之毒的回廊",
+      "en": "A corridor spitting the poison of dreams",
+      "kind": "lyric"
+    },
+    {
+      "start": 166.518,
+      "end": 170.202,
+      "ja": "再生の祝祭が千切れるまで",
+      "zh": "直到重生的庆典支离破碎",
+      "en": "Until the festival of rebirth is torn apart",
+      "kind": "lyric"
+    },
+    {
+      "start": 170.432,
+      "end": 173.218,
+      "ja": "天国を這う 夜に",
+      "zh": "在爬过天国的夜里",
+      "en": "In the night that crawls through heaven",
+      "kind": "lyric"
+    }
+  ]
+}

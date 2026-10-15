@@ -1,0 +1,121 @@
+{
+  "video": "AMARA-ASCII-MV-1080p.mp4",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 30.0,
+  "video_frames": 5865,
+  "video_duration": 195.5,
+  "song_duration": 195.50652083333333,
+  "decoded_audio_duration": 195.52,
+  "chapters": 65,
+  "full_audio_and_video_decode_passed": true,
+  "frame_comparisons": [
+    {
+      "source_second": 10.0,
+      "frame": 300,
+      "mean_RGB_error": 3.796
+    },
+    {
+      "source_second": 34.0,
+      "frame": 1020,
+      "mean_RGB_error": 0.598
+    },
+    {
+      "source_second": 86.0,
+      "frame": 2580,
+      "mean_RGB_error": 1.281
+    },
+    {
+      "source_second": 103.0,
+      "frame": 3090,
+      "mean_RGB_error": 1.634
+    },
+    {
+      "source_second": 116.766667,
+      "frame": 3503,
+      "mean_RGB_error": 1.28
+    },
+    {
+      "source_second": 120.7,
+      "frame": 3621,
+      "mean_RGB_error": 0.962
+    },
+    {
+      "source_second": 135.2,
+      "frame": 4056,
+      "mean_RGB_error": 2.328
+    },
+    {
+      "source_second": 152.0,
+      "frame": 4560,
+      "mean_RGB_error": 2.714
+    },
+    {
+      "source_second": 168.6,
+      "frame": 5058,
+      "mean_RGB_error": 1.564
+    },
+    {
+      "source_second": 181.0,
+      "frame": 5430,
+      "mean_RGB_error": 2.813
+    },
+    {
+      "source_second": 193.0,
+      "frame": 5790,
+      "mean_RGB_error": 2.698
+    }
+  ],
+  "audio_alignment": [
+    {
+      "source_second": 5.0,
+      "offset_ms": 0.0,
+      "correlation": 0.999801
+    },
+    {
+      "source_second": 34.0,
+      "offset_ms": 0.0,
+      "correlation": 0.999837
+    },
+    {
+      "source_second": 63.6,
+      "offset_ms": 0.0,
+      "correlation": 0.999557
+    },
+    {
+      "source_second": 103.0,
+      "offset_ms": 0.0,
+      "correlation": 0.999622
+    },
+    {
+      "source_second": 113.0,
+      "offset_ms": 0.0,
+      "correlation": 0.99977
+    },
+    {
+      "source_second": 120.7,
+      "offset_ms": 0.0,
+      "correlation": 0.99963
+    },
+    {
+      "source_second": 133.114,
+      "offset_ms": 0.0,
+      "correlation": 0.999899
+    },
+    {
+      "source_second": 170.432,
+      "offset_ms": 0.0,
+      "correlation": 0.999574
+    },
+    {
+      "source_second": 190.0,
+      "offset_ms": 0.0,
+      "correlation": 0.999978
+    }
+  ],
+  "max_audio_alignment_error_ms": 0.0,
+  "file_sha256": "88a05fe17d630fb975d443dbb931ba80cd37c34688d969c15ebb2ef425090213",
+  "result": "passed"
+}

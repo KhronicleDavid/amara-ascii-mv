@@ -1,0 +1,20 @@
+{
+  "revision": "physical-fracture-inscription-revision4",
+  "shots": 65,
+  "bilingual_cues": 55,
+  "revised_scenes": 22,
+  "render_sizes": [
+    "64x20",
+    "80x23",
+    "120x42",
+    "160x46"
+  ],
+  "unique_frames_checked": 6340,
+  "final_architecture_refinement_frames_rechecked": 920,
+  "caption_timing_and_direct_seek_checks": "passed",
+  "playback_regression_tests_passed": 10,
+  "whole_film_representative_frame_checks": 264,
+  "unchanged_frames_outside_scene_revisions": 172,
+  "source_video_pixels_verified_at_export": 12,
+  "full_video_verification": "video-verification.json"
+}
